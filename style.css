@@ -1,0 +1,22 @@
+body{
+    color: red;
+}
+ol{
+    color:brown;
+}
+b{
+    background-color: yellow;
+}
+ul{
+    color: brown;
+    letter-spacing: 4px;
+}
+p{
+    color: brown;
+}
+a{
+    font-size: 20px;
+    color:red;
+    background-color: yellow;
+    text-decoration: none;
+}
